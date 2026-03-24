@@ -1,8 +1,11 @@
 # The Open Source Audit: Capstone Project
 
 **Course:** Open Source Software (OSS NGMC)
+
 **Student Name:** Rishav Mandal
+
 **Registration Number:** 24BSA10096
+
 **Chosen Software for Audit:** Python
 
 ## Project Overview
