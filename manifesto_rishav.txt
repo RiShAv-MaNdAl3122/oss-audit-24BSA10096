@@ -1,0 +1,7 @@
+=== MY OPEN SOURCE MANIFESTO ===
+Date: 30 March 2026
+
+I believe that software should empower people. Every day, I rely on tools like Linux to learn and grow.
+To me, the core of open source is Choice. It is about sharing knowledge without barriers.
+If I could contribute to the community today, I would build Music and release it under an open license so others could stand on my shoulders.
+================================
